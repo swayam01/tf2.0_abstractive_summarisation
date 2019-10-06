@@ -1,0 +1,102 @@
+2019-09-23 11:37:06,247 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-23 11:37:18,232 | model.train | get_data | INFO | Length of text: 10000
+2019-09-23 11:37:18,942 | model.train | preprocess_data | INFO | Vocabulary size (Input): 17562
+2019-09-23 11:37:18,943 | model.train | preprocess_data | INFO | Vocabulary size (Output): 4183
+2019-09-23 11:37:18,943 | model.train | preprocess_data | DEBUG | IP text shape: (8000, 20)
+2019-09-23 11:37:18,943 | model.train | preprocess_data | DEBUG | OP text shape: (8000, 20)
+2019-09-23 11:37:20,633 | model.train | <module> | INFO | Translating: This waffle and pancake mix is delicious!  You can taste a subtle hint of vanilla in them.  They are the only pancakes/waffles that my kids love and the house smells wonderful when they are cooking!
+
+2019-09-23 11:37:21,924 | model.train | <module> | INFO | 	French: great tasting pancakes and waffles eos 
+2019-09-23 11:52:26,048 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-23 11:53:05,853 | model.train | get_data | INFO | Length of text: 10000
+2019-09-23 11:53:06,581 | model.train | preprocess_data | INFO | Vocabulary size (Input): 17562
+2019-09-23 11:53:06,582 | model.train | preprocess_data | INFO | Vocabulary size (Output): 4183
+2019-09-23 11:53:06,582 | model.train | preprocess_data | DEBUG | IP text shape: (8000, 20)
+2019-09-23 11:53:06,582 | model.train | preprocess_data | DEBUG | OP text shape: (8000, 20)
+2019-09-23 11:55:55,941 | model.train | train | INFO | Loss in epoch 1: 3.0084744528416665
+2019-09-23 12:03:17,143 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-23 12:03:21,106 | model.train | get_data | INFO | Length of text: 10000
+2019-09-23 12:03:21,822 | model.train | preprocess_data | INFO | Vocabulary size (Input): 17562
+2019-09-23 12:03:21,823 | model.train | preprocess_data | INFO | Vocabulary size (Output): 4183
+2019-09-23 12:03:21,824 | model.train | preprocess_data | DEBUG | IP text shape: (8000, 20)
+2019-09-23 12:03:21,824 | model.train | preprocess_data | DEBUG | OP text shape: (8000, 20)
+2019-09-23 12:03:23,567 | model.train | <module> | INFO | Translating: This waffle and pancake mix is delicious!  You can taste a subtle hint of vanilla in them.  They are the only pancakes/waffles that my kids love and the house smells wonderful when they are cooking!
+
+2019-09-23 12:03:24,756 | model.train | <module> | INFO | 	French: great tasting pancakes and waffles eos 
+2019-09-23 12:07:00,394 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-23 12:07:00,395 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-23 12:07:00,395 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-23 12:07:00,396 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-23 12:07:04,590 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-23 12:07:07,157 | model.train | get_data | INFO | Length of text: 10000
+2019-09-23 12:07:09,165 | model.train | <module> | INFO | input_text: This waffle and pancake mix is delicious!  You can taste a subtle hint of vanilla in them.  They are the only pancakes/waffles that my kids love and the house smells wonderful when they are cooking!
+
+2019-09-23 12:07:09,434 | model.train | <module> | INFO | output_summary: great tasting pancakes and waffles eos 
+2019-09-23 12:07:33,913 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-23 12:07:33,914 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-23 12:07:33,915 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-23 12:07:33,915 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-23 12:07:37,312 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-23 12:07:39,810 | model.train | <module> | INFO | input_text: This waffle and pancake mix is delicious!  You can taste a subtle hint of vanilla in them.  They are the only pancakes/waffles that my kids love and the house smells wonderful when they are cooking!
+
+2019-09-23 12:07:40,082 | model.train | <module> | INFO | output_summary: great tasting pancakes and waffles eos 
+2019-09-23 12:09:26,707 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-23 12:09:26,708 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-23 12:09:26,708 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-23 12:09:26,708 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-23 12:09:30,279 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-23 12:09:35,927 | model.train | <module> | INFO | input_text: This waffle and pancake mix is delicious!  You can taste a subtle hint of vanilla in them.  They are the only pancakes/waffles that my kids love and the house smells wonderful when they are cooking!
+
+2019-09-23 12:09:36,216 | model.train | <module> | INFO | output_summary: great tasting pancakes and waffles eos 
+2019-09-23 12:09:48,160 | model.train | <module> | INFO | input_text: Purchased this tea because of recommendation. Product arrived well packaged and quickly. I am very pleased with this product and will purchase it again.
+
+2019-09-23 12:09:48,459 | model.train | <module> | INFO | output_summary: tea eos 
+2019-09-23 12:09:54,481 | model.train | <module> | INFO | input_text: Our primary reason for buying this product is that it came in a variety pack.  We make most of our own baby food, but we were going on vacation and that was going to be difficult.  Since packing space was limited, we had this shipped to our destination.  It was the only brand we could find to order in a variety pack.  The kids liked all the flavors and the consistency seemed good.
+
+2019-09-23 12:09:54,856 | model.train | <module> | INFO | output_summary: earth's best variety pack eos 
+2019-09-23 12:10:30,664 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-23 12:10:30,665 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-23 12:10:30,665 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-23 12:10:30,666 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-25 20:12:18,824 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-25 20:12:35,422 | model.train | <module> | INFO | input_text: Our primary reason for buying this product is that it came in a variety pack.  We make most of our own baby food, but we were going on vacation and that was going to be difficult.  Since packing space was limited, we had this shipped to our destination.  It was the only brand we could find to order in a variety pack.  The kids liked all the flavors and the consistency seemed good.
+
+2019-09-25 20:12:35,712 | model.train | <module> | INFO | output_summary: earth's best variety pack eos 
+2019-09-25 20:12:42,828 | model.train | <module> | INFO | input_text: I just recently had to go gluten free and have been disappointed by the gluten free flours and baking mixes.  I bought this and it's amazing!  Just like the original Bisquick.  Although it is cheaper at Walmart.
+
+2019-09-25 20:12:43,136 | model.train | <module> | INFO | output_summary: just like the original bisquick eos 
+2019-09-25 20:15:26,214 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-25 20:15:26,215 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-25 20:15:26,215 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-25 20:15:26,215 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-25 20:15:30,065 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-25 20:15:34,485 | model.train | <module> | INFO | input_text: I just recently had to go gluten free and have been disappointed by the gluten free flours and baking mixes.  I bought this and it's amazing!  Just like the original Bisquick.  Although it is cheaper at Walmart.
+
+2019-09-25 20:15:34,773 | model.train | <module> | INFO | output_summary: just like the original bisquick eos 
+2019-09-25 20:15:47,218 | model.train | <module> | INFO | input_text: Our primary reason for buying this product is that it came in a variety pack.  We make most of our own baby food, but we were going on vacation and that was going to be difficult.  Since packing space was limited, we had this shipped to our destination.  It was the only brand we could find to order in a variety pack.  The kids liked all the flavors and the consistency seemed good.
+
+2019-09-25 20:15:47,523 | model.train | <module> | INFO | output_summary: earth's best variety pack eos 
+2019-09-25 20:17:43,420 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-25 20:17:43,421 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-25 20:17:43,421 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-25 20:17:43,421 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-25 20:17:49,301 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-25 20:17:53,692 | model.train | <module> | INFO | input_text: Our primary reason for buying this product is that it came in a variety pack.  We make most of our own baby food, but we were going on vacation and that was going to be difficult.  Since packing space was limited, we had this shipped to our destination.  It was the only brand we could find to order in a variety pack.  The kids liked all the flavors and the consistency seemed good.
+
+2019-09-25 20:17:53,974 | model.train | <module> | INFO | output_summary: earth's best variety pack eos 
+2019-09-25 20:21:55,039 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-25 20:21:55,039 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-25 20:21:55,040 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-25 20:21:55,040 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
+2019-09-27 22:14:08,387 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-27 22:14:15,883 | model.train | <module> | INFO | input_text: Our primary reason for buying this product is that it came in a variety pack.  We make most of our own baby food, but we were going on vacation and that was going to be difficult.  Since packing space was limited, we had this shipped to our destination.  It was the only brand we could find to order in a variety pack.  The kids liked all the flavors and the consistency seemed good.
+
+2019-09-27 22:14:16,161 | model.train | <module> | INFO | output_summary: earth's best variety pack eos 
+2019-09-28 00:07:27,281 | model.train | get_logger | INFO | Started log /home/swayam/Desktop/tf2_project/logs/model.train
+2019-09-28 00:07:34,608 | model.train | <module> | INFO | input_text: Our primary reason for buying this product is that it came in a variety pack.  We make most of our own baby food, but we were going on vacation and that was going to be difficult.  Since packing space was limited, we had this shipped to our destination.  It was the only brand we could find to order in a variety pack.  The kids liked all the flavors and the consistency seemed good.
+
+2019-09-28 00:07:34,938 | model.train | <module> | INFO | output_summary: earth's best variety pack eos 
+2019-09-28 00:07:47,044 | root | soft_define_alias | ERROR | Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-09-28 00:07:47,044 | root | soft_define_alias | ERROR | Invalid alias: The name more can't be aliased because it is another magic command.
+2019-09-28 00:07:47,044 | root | soft_define_alias | ERROR | Invalid alias: The name less can't be aliased because it is another magic command.
+2019-09-28 00:07:47,045 | root | soft_define_alias | ERROR | Invalid alias: The name man can't be aliased because it is another magic command.
